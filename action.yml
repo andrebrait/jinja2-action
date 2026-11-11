@@ -20,7 +20,7 @@ inputs:
     default: yaml
 runs:
   using: "docker"
-  image: "docker://ghcr.io/dkaser/jinja2-action:33f5545"
+  image: "Dockerfile"
 branding:
   icon: "sliders"
   color: "red"
